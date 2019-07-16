@@ -1,0 +1,9 @@
+{
+    "name": "luoluolzb/composer-test",
+    "require": {
+        "monolog/monolog": "~1.2"
+    },
+    "autoload": {
+        "psr-4": {"luoluolzb\\": "src/"}
+    }
+}
