@@ -1,5 +1,7 @@
 {
     "name": "luoluolzb/composer-test",
+    "description": "composer test",
+    "license": "MIT",
     "require": {
         "monolog/monolog": "~1.2"
     },
